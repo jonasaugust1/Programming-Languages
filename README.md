@@ -8,11 +8,8 @@ The data is stored in a .tsv file, which stands for tab-separated values. It’s
 you might see this file type when you try to download data from apps like Microsoft Excel and Google Sheets.
 
 Here is what the data would look like as a table (just a few random rows included):
-Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
---- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
-Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
 
-Year |	#Name |	#Chief | #Developer |	#Predecessors
+Year | #Name |	#Chief | #Developer |	#Predecessors
 --- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
 1990 |	AMOS BASIC |	François | Lionet, Constantin Sotiropoulos	STOS BASIC
 --- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
