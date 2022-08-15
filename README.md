@@ -9,7 +9,7 @@ you might see this file type when you try to download data from apps like Micros
 
 Here is what the data would look like as a table (just a few random rows included):
 
-| Year | #Name |	#Chief | #Developer |	#Predecessors |
+| Year | #Name |	#Chief Developer |	#Predecessors |
 | ---- | ----- | ------- | ---------- | ------------- |
 | 1990 |	AMOS BASIC |	François | Lionet, Constantin Sotiropoulos	STOS BASIC |
 | ---- | ----- | ------- | ---------- | ------------- |
