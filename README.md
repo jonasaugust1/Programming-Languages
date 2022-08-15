@@ -17,4 +17,4 @@ Here is what the data would look like as a table (just a few random rows include
 | ---- | ----- | ------- | ---------- | ------------- |
 | 1995 |	Ruby |	Yukihiro Matsumoto |	Smalltalk-Perl |
 | ---- | ----- | ------- | ---------- | ------------- |
-| 2009 |	Go | Google |	C-Oberon-Limbo-Smalltalk |
+| 2009 |	Go   | Google  |	C-Oberon-Limbo-Smalltalk |
